@@ -1,4 +1,4 @@
-# desafio da  Start DB
+# Desafio da Start DB
 
 ### Resolução do desafio proposto pela Empresa Start DB 💻
 
